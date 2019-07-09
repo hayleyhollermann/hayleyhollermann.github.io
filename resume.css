@@ -1,0 +1,49 @@
+body{
+    background-color: #FFFAF0;
+    font-family: Verdana, Tahoma, sans-serif
+}
+
+.general {
+    position: absolute;
+    height: 180px;
+    left: 10%;
+    right: 0%;
+    background-color: #FFEBCD;
+    border-top-left-radius: 35px;
+    border-bottom-left-radius: 35px;
+    padding: 15px;
+}
+
+h1 {
+    font-size: 48px;
+    font-family: Verdana, Tahoma, sans-serif;
+    padding-top: 0%;
+}
+
+p {
+    font-size: 16px;
+}
+
+.education {
+    position: absolute;
+    left: 15%;
+    top: 250px;
+}
+
+.employment {
+    position: absolute;
+    left: 15%;
+    top: 580px;
+}
+
+.personal {
+    position: absolute;
+    left: 15%;
+    top: 1410px;    
+}
+
+.references{
+    position: absolute;
+    left: 15%;
+    top: 1580px;
+}
